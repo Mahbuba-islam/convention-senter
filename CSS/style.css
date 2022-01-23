@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@800&family=Merriweather:wght@300;700;900&family=Poppins:wght@200;300;400;500;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    /* height:33px ; */
+    width: 300px;
+    font-size: 12px;
+}
+/* h2{
+    width: 200px;
+    margin-top: 0px;
+    height:500px;
+    margin-bottom: 0.5vh;
+    padding: 200px;
+} */
