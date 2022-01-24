@@ -14,3 +14,28 @@ p{
     margin-bottom: 0.5vh;
     padding: 200px;
 } */
+
+.btn-initial{
+    background: rgba(250, 189, 200, 0.616);
+}
+.next{
+    width: 200px;
+    padding-top: 25px;
+    
+}
+.Hot{
+    height: 25px;
+    width: 60px;
+    background: red;
+    color: white;
+    position: relative;
+    bottom: 20px;
+   left: 140px ;
+   text-align: center;
+}
+.offer{
+    position: absolute;
+    bottom: 570px;
+    left: 730px ;
+    
+}
